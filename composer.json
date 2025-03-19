@@ -1,8 +1,9 @@
 {
-  "name": "imranarifa/image-upload",
+  "name": "developerimran/image-upload",
   "description": "This is a packge of uploading Image",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.0",
   "autoload": {
     "psr-4": {
       "Developer\\Imran\\PioneerPHP\\": "app/"
