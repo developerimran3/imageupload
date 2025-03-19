@@ -3,6 +3,7 @@
   "description": "This is a packge of uploading Image",
   "type": "library",
   "license": "MIT",
+  "version": "v1.1.0",
   "autoload": {
     "psr-4": {
       "Developer\\Imran\\PioneerPHP\\": "app/"
